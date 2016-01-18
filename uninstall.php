@@ -2,11 +2,11 @@
 /**
 * Fired when the plugin is uninstalled.
 *
-* @package Plugin_Name
-* @author Your Name <email@example.com>
+* @package Manage User Roles
+* @author Airton Vancin Junior <airtonvancin@gmail.com>
 * @license GPL-2.0+
-* @link http://example.com
-* @copyright 2014 Your Name or Company Name
+* @link https://github.com/airton/manage-user-roles
+* @copyright 2016 Airton
 */
 
 // If uninstall not called from WordPress, then exit

@@ -5,7 +5,7 @@
  * @package   Manage User Roles
  * @author    Airton Vancin Junior <airtonvancin@gmail.com>
  * @license   GPL-2.0+
- * @link      https://github.com/airton
+ * @link      https://github.com/airton/manage-user-roles
  * @copyright 2016 Airton
  *
  * @wordpress-plugin
