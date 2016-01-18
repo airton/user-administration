@@ -1,7 +1,5 @@
 <?php
 /**
- * Use the PHP for https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate
- *
  * @package   Manage User Roles
  * @author    Airton Vancin Junior <airtonvancin@gmail.com>
  * @license   GPL-2.0+
