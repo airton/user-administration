@@ -23,7 +23,7 @@ Show only your posts publications
 
 ## Frequently Asked Questions ##
 
-= What is the plugin license? =
+### What is the plugin license? ###
 
 * This plugin is released under a GPL license.
 
@@ -31,13 +31,13 @@ Show only your posts publications
 
 ## Changelog ##
 
-= 1.0.0 =
+### 1.0.0 ###
 
 * Initial version.
 
 ## Upgrade Notice ##
 
-= 1.0.0 =
+### 1.0.0 ###
 
 * Initial version.
 
