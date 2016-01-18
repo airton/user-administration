@@ -1,87 +1,55 @@
-# WordPress Plugin Boilerplate #
+# Manage User Roles #
 
-This is a basic bootstrap to develop WordPress plugins using **Grunt**, **Compass**, **GIT** and **SVN**.  
-You will use your GIT repository as plugin development environment and the WordPress plugin repository as production environment.  
-Being possible to run commands with the Grunt to deploy its new versions.
+Contributors: airtonvancin
+Donate link: https://pagseguro.uol.com.br/checkout/v2/donation.html?currency=BRL&receiverEmail=chapolinsk@hotmail.com
+Tags: user, roles, administration, adm
+Requires at least: 3.0
+Tested up to: 4.4.1
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This project was made based on [WordPress-Plugin-Boilerplate by tommcfarlin](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate).
+Show only your posts publications
 
-## Requirements: ##
+## Description ##
 
-* [Node.js](http://nodejs.org/)
-* [Compass](http://compass-style.org/)
-* [GIT](http://git-scm.com/)
-* [Subversion](http://subversion.apache.org/)
+Show only your posts publications
 
-## Installation: ##
+## Installation ##
 
-Clone this repo:
+* Upload plugin files to your plugins folder, or install using WordPress built-in Add New Plugin installer;
+* Activate the plugin;
+* Navigate to Plugin Settings and fill settings.
 
-```bash
-$ git clone git@github.com:claudiosmweb/wordpress-plugin-bootstrap.git
-```
+## Frequently Asked Questions ##
 
-Install the dependencies of the grunt:
+= What is the plugin license? =
 
-```bash
-$ npm install
-```
+* This plugin is released under a GPL license.
 
-Finally rename the files as you want and create your GIT repository.
-
-## Commands: ##
-
-Lint, compile and compress the files:
-
-```bash
-$ grunt
-```
-
-Watch the project:
-
-```bash
-$ grunt watch
-```
-
-Deploy with svn:
-
-```bash
-$ grunt deploy
-```
+## Screenshots ##
 
 ## Changelog ##
 
-##### 3.0.0 #####
-
-* Updated the dependencies.
-* Fixed the assets directories based on [WordPress-Plugin-Boilerplate by tommcfarlin](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate).
-* Improved the grunt tasks.
-* Added .jshintrc with WordPress standards.
-* Fixed the `indent_style` to `tab` in .editorconfig file.
-
-##### 2.1.0 #####
-
-* Updated the grunt tasks.
-* Improved the rsync tasks.
-
-##### 2.0.0 #####
-
-* Updated the grunt tasks.
-* Added .editorconfig.
-* Added .jshintrc.
-* Removed config.rb in favor to grunt compass task.
-* Improved the code.
-
-##### 1.0.0 #####
+= 1.0.0 =
 
 * Initial version.
 
-## License: ##
+## Upgrade Notice ##
 
-WordPress Plugin Boilerplate is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published
+= 1.0.0 =
+
+* Initial version.
+
+## License ##
+
+This file is part of Your Plugin Name.
+
+Your Plugin Name is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published
 by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-WordPress Plugin Boilerplate is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+Your Plugin Name is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 Get a copy of the GNU General Public License in <http://www.gnu.org/licenses/>.
+

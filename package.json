@@ -1,6 +1,6 @@
 {
-  "name": "your-plugin-name",
-  "description": "Your plugin description",
+  "name": "manage-user-roles",
+  "description": "Show only of his own publications",
   "version": "1.0.0",
   "main": "Gruntfile.js",
   "devDependencies": {

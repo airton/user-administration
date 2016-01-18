@@ -1,18 +1,18 @@
-=== Your Plugin Name ===
-Contributors: your_wp_user_name
-Donate link: http://your-donation-link.com/
-Tags: your_tags
+=== Manage User Roles ===
+Contributors: airtonvancin
+Donate link: https://pagseguro.uol.com.br/checkout/v2/donation.html?currency=BRL&receiverEmail=chapolinsk@hotmail.com
+Tags: user, roles, administration, adm
 Requires at least: 3.0
-Tested up to: 3.8
+Tested up to: 4.4.1
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Short description
+Show only your posts publications
 
 == Description ==
 
-Long description
+Show only your posts publications
 
 == Installation ==
 
@@ -28,20 +28,17 @@ Long description
 
 == Screenshots ==
 
-1. Image 01.
-2. Image 02.
-
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 
-* Notes of the version.
+* Initial version.
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 1.0.0 =
 
-* Initial Version.
+* Initial version.
 
 == License ==
 
