@@ -31,7 +31,7 @@ Show only your posts publications
 
 ## Changelog
 
-**1.0.0 **
+**1.0.0**
 
 * Initial version.
 
