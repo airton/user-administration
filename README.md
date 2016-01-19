@@ -1,47 +1,47 @@
-# Manage User Roles #
+# Manage User Roles
 
-Contributors: airtonvancin
-Donate link: https://pagseguro.uol.com.br/checkout/v2/donation.html?currency=BRL&receiverEmail=chapolinsk@hotmail.com
-Tags: user, roles, administration, adm
-Requires at least: 3.0
-Tested up to: 4.4.1
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-Show only your posts publications
-
-## Description ##
+- Contributors: airtonvancin
+- Donate link: https://pagseguro.uol.com.br/checkout/v2/donation.html?currency=BRL&receiverEmail=chapolinsk@hotmail.com
+- Tags: user, roles, administration, adm
+- Requires at least: 3.0
+- Tested up to: 4.4.1
+- Stable tag: 1.0.0
+- License: GPLv2 or later
+- License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Show only your posts publications
 
-## Installation ##
+## Description
+
+Show only your posts publications
+
+## Installation
 
 * Upload plugin files to your plugins folder, or install using WordPress built-in Add New Plugin installer;
 * Activate the plugin;
 * Navigate to Plugin Settings and fill settings.
 
-## Frequently Asked Questions ##
+## Frequently Asked Questions
 
-### What is the plugin license? ###
+### What is the plugin license?
 
 * This plugin is released under a GPL license.
 
-## Screenshots ##
+## Screenshots
 
-## Changelog ##
+## Changelog
 
-### 1.0.0 ###
-
-* Initial version.
-
-## Upgrade Notice ##
-
-### 1.0.0 ###
+**1.0.0 **
 
 * Initial version.
 
-## License ##
+## Upgrade Notice
+
+**1.0.0**
+
+* Initial version.
+
+## License 
 
 This file is part of Manage User Roles.
 
